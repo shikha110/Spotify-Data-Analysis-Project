@@ -4,7 +4,7 @@
 
 Description: 
 
-Since I love listening to songs of various genres, I am addicted to using spotify to satisfy my ears and therefore this how i first started this project. I was curious about different number of artists, there albums and the listener count, so this project came handy. This project contains comprehensive cleaning of Spotify dataset, encompassing various attributes related to tracks, albums, and artists. Utilizing SQL (Structured Query Language),to tackle an end-to-end process which includes:
+Since I love listening to songs of various genres, I am addicted to using spotify to satisfy my ears and therefore this is how i first started this project. I was curious about different number of artists, there albums and the listeners count, so this project came handy. This project contains comprehensive cleaning of Spotify dataset, encompassing various attributes related to tracks, albums, and artists. Utilizing SQL (Structured Query Language),to tackle an end-to-end process which includes:
 
 1. Data normalization: Transforming the denormalized dataset into a well-structured format.
 2. Querying: Executing SQL queries of varying complexity (easy, medium, and advanced) to extract insights.
