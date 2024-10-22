@@ -1,4 +1,4 @@
-Spotify Data Analysis Project:
+# Spotify Data Analysis Project:
 
 ![spotify_logo11](https://github.com/user-attachments/assets/731be678-ebec-4ee0-aac0-8090d7baffbf)
 
