@@ -4,7 +4,7 @@ Spotify Data Analysis Project:
 
 Description: 
 
-In this project, we'll delve into a comprehensive Spotify dataset, encompassing various attributes related to tracks, albums, and artists. Utilizing SQL (Structured Query Language), we'll tackle an end-to-end process that includes:
+In this project, done a comprehensive Spotify dataset, encompassing various attributes related to tracks, albums, and artists. Utilizing SQL (Structured Query Language), we'll tackle an end-to-end process that includes:
 
 1. Data normalization: Transforming the denormalized dataset into a well-structured format.
 2. Querying: Executing SQL queries of varying complexity (easy, medium, and advanced) to extract insights.
@@ -15,7 +15,7 @@ The primary objectives are:
 - Honing advanced SQL skills
 - Uncovering valuable insights from the Spotify dataset
 
-Through this project, we'll demonstrate expertise in data analysis, query optimization, and SQL proficiency, ultimately gaining a deeper understanding of the Spotify data landscape.
+Through this project, i have demonstrated expertise in data analysis, query optimization, and SQL proficiency, ultimately gaining a deeper understanding of the Spotify data landscape.
 
 Creating table:
 
