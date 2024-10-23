@@ -11,15 +11,16 @@ Since I love listening to songs of various genres, I am addicted to using spotif
 3. Optimization: Enhancing query performance for efficient data retrieval.
 
 Objective of this Project is to:
+
     - Enhance advanced SQL skills by querying and analyzing Spotify data attributes, such as:
-    - Track features (genre, duration, popularity, etc.)
-    - Album and artist information (name, release date, popularity, etc.)
-    - User engagement metrics (monthly listeners, streams, etc.)
-    - Uncover meaningful patterns and trends in Spotify data, including:
-    - Popular genres and artists
-    - User listening habits and preferences
-    - Album and track performance
-    - Demonstrate ability to extract and interpret data insights using SQL and Excel, and present actionable recommendations for Spotify stakeholders
+    1. Track features (genre, duration, popularity, etc.).
+    2. Album and artist information (name, release date, popularity, etc.)
+    3. User engagement metrics (monthly listeners, streams, etc.)
+    4. Uncover meaningful patterns and trends in Spotify data, including:
+    5. Popular genres and artists
+    6. User listening habits and preferences
+    7. Album and track performance
+    10. Demonstrate ability to extract and interpret data insights using SQL and Excel, and present actionable recommendations for Spotify stakeholders
 
 
 Creating table:
